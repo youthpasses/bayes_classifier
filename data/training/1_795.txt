@@ -1,0 +1,46 @@
+　　每一次与高级珠宝有关的拍卖会背后，都藏着无数被人津津乐道或不为人知的故事女人们为了那些极致精美的瑰丽珠宝而失神着迷；男人们为它们不断增值的连城价值而血脉贲张；恋人们会用天文数字的财富换来能博得伊人一笑的珠宝拍品。这些经历了岁月变迁、数易主人的稀世珍宝，用自己经历岁月变迁却不蜕变的美见证着它的无数拥有者的人生起伏与爱恨情仇。或许，这也正是除去价值增值之外，珠宝拍卖真正的魅力和意义所在。
+
+
+#contTxt p{font-size:14px; word-break:break-all; word-wrap: break-word}
+/*@最后一页修改 
+ 2010-10-14
+ tomie
+*/
+#new-last-photo {width:100%;height:320px;background:#fff;position:absolute;left:0;top:0;z-index:999;overflow:hidden;}
+#new-last-photo .hd {width:528px;border-bottom:1px solid #E6E6E6;overflow:hidden;padding:20px 0;padding-top:13px;margin:0 auto;text-align:center;}
+#new-last-photo  .hd ul {width:330px;margin:0 auto;padding-left:70px;}
+#new-last-photo a{color:#0B3B8C;text-decoration:none;font-size:12px;}
+#new-last-photo .hd p {margin:0 auto 8px auto;}
+#new-last-photo .hd li {float:left;margin-left:10px;_display:inline}
+#new-last-photo .hd li a {float:left;line-height:28px;margin-right:6px;padding-right:20px;background:url(http://mat1.gtimg.com/ent/hdTest/button.png) no-repeat right top;}
+#new-last-photo .hd li a span {display:block;float:left;height:28px;padding-right:20px;background:url(http://mat1.gtimg.com/ent/hdTest/button.png) no-repeat left top;}
+#new-last-photo .hd li a em {float:left;height:28px;}
+#new-last-photo .hd li #replayPic em {width:13px;background:url(http://mat1.gtimg.com/ent/hdTest/button.png) no-repeat -34px -32px;padding-right:5px;}
+#new-last-photo .hd li #MIcblog em {width:16px;background:url(http://mat1.gtimg.com/ent/hdTest/button.png) no-repeat -211px -32px;padding-right:5px;}
+#new-last-photo .bd,#new-last-photo .ft {width:528px;text-align:center;margin:0 auto;overflow:hidden;background:#fff;}
+#new-last-photo .bd h3 {font-size:12px;color:#7E7E7E;text-align:left;margin:11px 0 5px 0;}
+#new-last-photo .bd li {float:left;width:176px;text-align:right;}
+#new-last-photo .bd li div {display:block;width:163px;height:140px;background:#F2F6FC;border:1px solid #ECECEC;overflow:hidden;padding:8px 0;text-align:left;}
+#new-last-photo .bd li div:nth-child(2){margin:0 4px;}
+#new-last-photo .bd li div a {display:block;width:146px;margin:0 auto;margin-top:10px;font-size:12px;color:#0B3B8C;text-decoration:none}
+#new-last-photo .bd li div a:hover {text-decoration:underline}
+#new-last-photo .bd li div a.img {display:block;width:146px;height:92px;overflow:hidden;margin:0 auto;}
+#cmenu{border:1px solid #5EB4D8;background-color:#F6F9FD;padding:2px;}
+#cmenu ul,#cmenu li{list-style:none;margin:0px;padding:0px;text-align:center;font-size:12px;cursor:pointer}
+#cmenu .item{list-style:none;margin:0px;padding:0px;height:23px;line-height:23px;display:block;padding:0px;}
+#cmenu .itemOver{background-color:#68B5EA;color:#fff;cursor:default;}
+#photo-warp-inner a#PicWBzb {float:right;height:19px;background:url(http://mat1.gtimg.com/news/hd2009fin/wb.png) no-repeat left 3px;padding-left:27px;margin:6px 15px 0 0;padding-bottom:4px;}
+#photo-warp {margin-top:10px;}
+.photo-warp-inner .mainArea { clear:both; margin: 0px auto 0px }
+.photo-warp-inner .mainArea #Display {filter:blendTrans(Duration=0.4);}
+.entrance-slide { float:right; visibility:hidden }
+.entrance-slide a { height:19px; display:inline-block; margin:6px 15px 0 0; background:url(http://mat1.gtimg.com/www/hd/mask/images/icon_slide.png) no-repeat 0 3px; padding-left:19px }
+.entrance-slide span { float:left; background:url(http://mat1.gtimg.com/www/hd/mask/images/tips.png) no-repeat 0 0; width:59px; height:20px; color:#7f7053; margin:5px 5px 0 0}
+.contextDiv a { display:block; width:100%; height:100% }
+
+
+	
+转播此图到微博
+
+      新功能
+      幻灯观看
